@@ -18,7 +18,7 @@ class CompetitionExampleAlgorithm(QCAlgorithm):
         
         ## Set Universe Selection Model
         self.SetUniverseSelection(UniverseSelectionModel())
-        self.UniverseSettings.Resolution = Resolution.Daily
+        self.UniverseSettings.Resolution = Resolution.Hour
         
         # download the data 
         self.vaderData = self.Download("https://www.dropbox.com/s/q5udnl4ou35o78f/vader_lexicon.txt?dl=1")
