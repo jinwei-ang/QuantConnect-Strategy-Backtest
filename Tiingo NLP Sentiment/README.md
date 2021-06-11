@@ -6,6 +6,6 @@ The Alpha Model takes a collection of the highest volume stocks in cyclical sect
 
 One of the limitations with this model is that the words used are not exhaustive and more could be added to better categorize positive and negative sentiment. The sample size, accuracy of describing a trend of an asset, and the scoring scale determine the trade signal and algorithm's performance. Generally speaking, the larger the sample size,the more precise the scoring scale is, and the more accurately the signal. If we polish the description words sample pool, the result should reflect this more refined.
 
-Credit is where credit due
+#### Credit is where credit due
 - https://github.com/cjhutto/vaderSentiment
 - https://www.youtube.com/watch?v=TPO_AwCSL5w 
