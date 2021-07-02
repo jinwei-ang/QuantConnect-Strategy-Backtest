@@ -1,4 +1,4 @@
-# QuantConnect
+# QuantConnect Strategies & Back-test
  
 
 ## Content
