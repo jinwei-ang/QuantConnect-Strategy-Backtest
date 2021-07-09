@@ -6,6 +6,7 @@ The Alpha Model takes a collection of the highest volume stocks in technolgy sec
 
 One of the limitations with this model is that the words used are not exhaustive and more could be added to better categorize positive and negative sentiment. The sample size, accuracy of describing a trend of an asset, and the scoring scale determine the trade signal and algorithm's performance. Generally speaking, the larger the sample size,the more precise the scoring scale is, and the more accurately the signal. If we polish the description words sample pool, the result should reflect this more refined.
 
+## Results
 - Backtest Timeframe: 2016-2020
 - Net Profit: 183.821%
 - Compounding Annual Return: 23.171%

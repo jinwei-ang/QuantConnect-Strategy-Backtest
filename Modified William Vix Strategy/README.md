@@ -4,6 +4,7 @@ Chicago Board Options Exchange (CBOE) Volatility Index (VIX)  has become a very 
 
 In this strategy, we look to hold long position in SPY when VIX is below 2 standard deviation and rotate capital to bond (TLT) when VIX exceeds 2 standard deviation is a rolling 22-day period. There is a wait out period before reassessing whether to re-enter long position in SPY. The wait out period is calculated based on the volatity of SPY.
 
+## Results
 - Backtest Timeframe: 2016-2020
 - Net Profit: 205.364%
 - Compounding Annual Return: 24.985%
